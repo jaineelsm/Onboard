@@ -1,0 +1,7 @@
+{
+  "name": "onboard",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

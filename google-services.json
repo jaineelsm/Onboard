@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "31629098236",
+    "project_id": "onboard-b0f63",
+    "storage_bucket": "onboard-b0f63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31629098236:android:97dc86120e8564c5feab79",
+        "android_client_info": {
+          "package_name": "com.onboard.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31629098236-6uptbo3el538a336ppfsqmf5qmt0a952.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onboard.sms",
+            "certificate_hash": "de38308ad42ec4e42cfba99d67820a68f66075dc"
+          }
+        },
+        {
+          "client_id": "31629098236-1tep66djfmvr9uh8263uiti39shdd4ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Tzd-t1fUjNtuapBlNKHpua4-Qz7oUfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31629098236-1tep66djfmvr9uh8263uiti39shdd4ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
